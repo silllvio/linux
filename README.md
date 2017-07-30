@@ -1,2 +1,0 @@
-# linux
-Comandos básicos linux

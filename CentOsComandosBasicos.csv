@@ -1,0 +1,5 @@
+COMANDO,DESCRICAO,EXEMPLO
+rm,Remove um arquivo.,rm teste.txt.
+rm -rf diretorio/*,Limpa todas as pastas.,rm -rf linux/*
+rmdir ,Remove um diretório,rmdir linux
+ ,,
